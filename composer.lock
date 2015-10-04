@@ -303,16 +303,16 @@
         },
         {
             "name": "phizio/phix",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phizio/phix.git",
-                "reference": "e59a32a49953aa0c7121170aaca0d65198727bdd"
+                "reference": "2dfac2e06811fb02f8d8ff65af9cae278b8cf3aa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phizio/phix/zipball/e59a32a49953aa0c7121170aaca0d65198727bdd",
-                "reference": "e59a32a49953aa0c7121170aaca0d65198727bdd",
+                "url": "https://api.github.com/repos/phizio/phix/zipball/2dfac2e06811fb02f8d8ff65af9cae278b8cf3aa",
+                "reference": "2dfac2e06811fb02f8d8ff65af9cae278b8cf3aa",
                 "shasum": ""
             },
             "require": {
@@ -331,7 +331,7 @@
                 "framework",
                 "phix"
             ],
-            "time": "2015-09-26 10:26:58"
+            "time": "2015-09-29 07:05:41"
         },
         {
             "name": "tubalmartin/cssmin",
