@@ -76,3 +76,5 @@ require_once(PHIX_CORE . '/f_secure.php');
 require_once(PHIX_CORE . '/aliases.php');
 // Регистрация, логин и сессии авторизации на сайте
 require_once(PHIX_CORE . '/f_sessions.php');
+// Хелперы
+require_once(PHIX_CORE . '/f_helpers.php');
